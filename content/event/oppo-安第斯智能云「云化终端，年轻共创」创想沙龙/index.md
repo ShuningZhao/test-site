@@ -5,8 +5,8 @@ abstract: >-
 
   此次“年轻共创 云化终端”系列活动共包括高校技术分享交流与创想征集两大部分,自2023年4月10日启动以来,OPPO安第斯智能云面向全国各大高校及年轻开发者群体发起倡议,旨在鼓励年轻人基于云和AI大胆发挥想象,基于“云化终端”这一主题进行创意发散,在不设创想上限的前提就泛终端创新构想。在落地的高校校园行期间,OPPO安第斯智能云也紧密配合中国科学技术大学、华中科技大学、北京科技大学、清华大学四所高校,通过技术分享和交流,促进创新思想的碰撞和融合。
 location: 深圳市南山区蛇口价值工厂
-date: 2013-04-27T02:30:17.556Z
-date_end: 2013-04-27T04:30:00.000Z
+date: 2023-04-27T02:30:17.556Z
+date_end: 2023-04-27T04:30:00.000Z
 all_day: false
 event: OPPO
 event_url: http://m.e-chinaedu.cn/mobile/index.php?m=mobile&c=index&a=show&catid=199&id=101944
@@ -17,7 +17,7 @@ links:
     icon_pack: fab
     icon: weibo
     name: Follow
-publishDate: 2013-08-23T03:47:17.583Z
+publishDate: 2023-08-23T03:47:17.583Z
 featured: false
 image:
   filename: https://img.e-chinaedu.cn/uploadfile/1/2023/0505/168327245637fab4.png
