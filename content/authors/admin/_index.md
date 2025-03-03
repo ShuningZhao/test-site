@@ -3,8 +3,8 @@ organizations:
   - name: Tsinghua University
     url: https://www.tsinghua.edu.cn/en/
   - name: Promptlaw
-    url: www.promptlaw.com.au
-name_pronunciation: Chien Shiung Wu
+    url: https://www.promptlaw.com.au/
+name_pronunciation: Shuning Zhao
 skills:
   - name: Technical Skills
     items:
@@ -58,7 +58,7 @@ social:
     icon: github
 education:
   - area: PhD Artificial Intelligence
-    institution: Stanford University
+    institution: Tsinghua University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: >
@@ -68,8 +68,8 @@ education:
     button:
       text: Read Thesis
       url: https://example.com
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MEng Infomation Technology
+    institution: University of New South Wales
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -79,8 +79,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc Mathematics and Statistics
+    institution: University of New South Wales
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -94,7 +94,7 @@ email: shuning@promptlaw.com.au
 superuser: true
 profiles:
   - icon: at-symbol
-    url: mailto:your-email@example.com
+    url: mailto:shuning@promptlaw.com.au
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
