@@ -18,11 +18,6 @@ image:
   filename: https://img.e-chinaedu.cn/uploadfile/1/2023/0505/168327245637fab4.png
   focal_point: Smart
   preview_only: false
-#links:
- - icon: weibo
-   icon_pack: fab
-   name: Follow
-   url: https://weibo.com/6074410641/MF0x3zp3F?pagetype=profilefeed
 # url_code: 'https://github.com'
 # url_pdf: ''
 # url_slides: 'https://slideshare.net'

@@ -1,9 +1,9 @@
 ---
-name_pronunciation: Shuning Zhao
+name_pronunciation: 赵舒宁
 first_name: Shuning
 last_name: Zhao
 highlight_name: true
-title: 赵舒宁
+title: Shuning Zhao
 role: Ph.D. Candidate
 organizations:
   - name: Tsinghua University
