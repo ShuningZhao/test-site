@@ -1,10 +1,14 @@
 ---
+name_pronunciation: Shuning Zhao
+first_name: Shuning
+last_name: Zhao
+title: 赵舒宁
+role: Ph.D. Candidate
 organizations:
   - name: Tsinghua University
     url: https://www.tsinghua.edu.cn/en/
   - name: Promptlaw
     url: https://www.promptlaw.com.au/
-name_pronunciation: Shuning Zhao
 skills:
   - name: Technical Skills
     items:
@@ -35,9 +39,7 @@ skills:
       - name: GYM
         description: ""
         percent: 80
-        icon: camera
-title: 赵舒宁
-role: Ph.D. Candidate
+        icon: dumbbell
 avatar_filename: avatar.jpg
 interests:
   - Artificial Intelligence
@@ -59,8 +61,8 @@ interests:
 education:
   - area: PhD Artificial Intelligence
     institution: Tsinghua University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: ""
+    date_end: ""
     summary: >
       Research Area: Machine Learning, Deep Learning, Speech and Audio Processing, Statistical Learning, Adversarial Attacks and Defences.<br>
       Member of [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group.<\br>
@@ -70,8 +72,8 @@ education:
       url: https://example.com
   - area: MEng Infomation Technology
     institution: University of New South Wales
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: ""
+    date_end: ""
     summary: |
       GPA: Distinction
       Thesis: Adversarial Attacks and Defenses on Speech Recognition Systems 
@@ -85,8 +87,8 @@ education:
       - BHP China-Australia Scholar.
   - area: BSc Mathematics and Statistics
     institution: University of New South Wales
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: ""
+    date_end: ""
     summary: |
       Awards:
       - Recipient of UNSW Equity Scholarship.
@@ -139,7 +141,6 @@ work:
       Clients: Australian Super, Cloudera, NSW Department of Transport, Gold Coast University Hospital, Google Cloud, Intel, National Australia Bank and Zurich Financial Services.
 status:
   icon: ☕️
-last_name: Zhao
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -181,7 +182,6 @@ awards:
       you write. R6 is especially useful for industry-specific analyses, working
       with web APIs, and building GUIs.
 highlight_name: true
-first_name: Shuning
 languages:
   - name: English
     percent: 100
