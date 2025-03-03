@@ -1,5 +1,5 @@
 ---
-name_pronunciation: 赵舒宁
+#name_pronunciation: 赵舒宁
 first_name: Shuning
 last_name: Zhao
 highlight_name: true
@@ -185,6 +185,6 @@ languages:
 ---
 ## About Me
 
-My name is Shuning Zhao I am a Ph.D. Candidate from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) under the supervision of [Prof. Xiaolin Hu](http://www.xlhu.cn/). I am also a member of the [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group. My research interests include the application of artificial intelligence and machine learning in finance, insurance, speech, and audio processing. I am also the co-foudner of [Promptlaw](www.promptlaw.com.au), a legal AI startup aimed at making legal services more accessible and affordable with the power of AI.
+My name is Shuning Zhao (赵舒宁) I am a Ph.D. Candidate from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) under the supervision of [Prof. Xiaolin Hu](http://www.xlhu.cn/). I am also a member of the [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group. My research interests include the application of artificial intelligence and machine learning in finance, insurance, speech, and audio processing. I am also the co-foudner of [Promptlaw](www.promptlaw.com.au), a legal AI startup aimed at making legal services more accessible and affordable with the power of AI.
 
 Prior to my PhD, I had over 8 years of industrial experience in data science, actuarial, and managerial roles in multinational corporations across Australia and the surrounding regions.
