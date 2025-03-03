@@ -62,8 +62,8 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: >
-      Research Area: Machine Learning, Deep Learning, Speech and Audio Processing, Statistical Learning, Adversarial Attacks and Defences.
-      Member of [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group.
+      Research Area: Machine Learning, Deep Learning, Speech and Audio Processing, Statistical Learning, Adversarial Attacks and Defences.\n
+      Member of [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group.\n
       Supervisor: Xiaolin Hu
     button:
       text: Read Thesis
@@ -74,6 +74,7 @@ education:
     date_end: 2020-12-31
     summary: |
       GPA: Distinction
+      Thesis: Adversarial Attacks and Defenses on Speech Recognition Systems 
       Supervisor(s):
       - Xiaolin Hu (Tsinghua University)
       - Xin Cao (UNSW)
