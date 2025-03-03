@@ -40,7 +40,7 @@ skills:
       - name: GYM
         description: ""
         percent: 80
-        icon: dumbbell
+        icon: fas/dumbbell
 avatar_filename: avatar.jpg
 interests:
   - Artificial Intelligence
