@@ -2,6 +2,7 @@
 name_pronunciation: Shuning Zhao
 first_name: Shuning
 last_name: Zhao
+highlight_name: true
 title: 赵舒宁
 role: Ph.D. Candidate
 organizations:
@@ -65,7 +66,7 @@ education:
     date_end: ""
     summary: >
       Research Area: Machine Learning, Deep Learning, Speech and Audio Processing, Statistical Learning, Adversarial Attacks and Defences.<br>
-      Member of [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group.<\br>
+      Member of [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group.<br>
       Supervisor: Xiaolin Hu
     button:
       text: Read Thesis
@@ -135,53 +136,47 @@ work:
     company_name: Servian
     company_url: www.servian.com.au
     company_logo: ''
-    date_start: 2020-10-10
-    date_end: 2018-02-01
+    date_start: 2018-02-01
+    date_end: 2020-10-10
     summary: |
       Clients: Australian Super, Cloudera, NSW Department of Transport, Gold Coast University Hospital, Google Cloud, Intel, National Australia Bank and Zurich Financial Services.
 status:
   icon: ☕️
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: 2023-11-25
-    awarder: Coursera
+  - title: BHP Australia-China Scholarship
+    url: https://fasic.org.au/Newsite/index.php/sliders/scholarship
+    date: 2020-11-25
+    awarder: FASIC
     icon: coursera
     summary: >
-      I studied the foundational concept of neural networks and deep learning.
-      By the end, I was familiar with the significant technological trends
-      driving the rise of deep learning; build, train, and apply fully connected
-      deep neural networks; implement efficient (vectorized) neural networks;
-      identify key parameters in a neural network’s architecture; and apply deep
-      learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: 2023-07-01
-    awarder: edX
-    icon: edx
-    summary: >
-      Learned:
+      I am the recipiant of the BHP China-Australia Scholarship.
+  # - title: Blockchain Fundamentals
+  #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  #   date: 2023-07-01
+  #   awarder: edX
+  #   icon: edx
+  #   summary: >
+  #     Learned:
 
-      - Synthesize your own blockchain solutions
+  #     - Synthesize your own blockchain solutions
 
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+  #     - Gain an in-depth understanding of the specific mechanics of Bitcoin
 
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: Object-Oriented Programming in R
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: 2023-01-21
-    awarder: datacamp
-    icon: datacamp
-    summary: >
-      Object-oriented programming (OOP) lets you specify relationships between
-      functions and the objects that they can act on, helping you manage
-      complexity in your code. This is an intermediate level course, providing
-      an introduction to OOP, using the S3 and R6 systems. S3 is a great
-      day-to-day R programming tool that simplifies some of the functions that
-      you write. R6 is especially useful for industry-specific analyses, working
-      with web APIs, and building GUIs.
-highlight_name: true
+  #     - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  # - title: Object-Oriented Programming in R
+  #   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+  #   certificate_url: https://www.datacamp.com
+  #   date: 2023-01-21
+  #   awarder: datacamp
+  #   icon: datacamp
+  #   summary: >
+  #     Object-oriented programming (OOP) lets you specify relationships between
+  #     functions and the objects that they can act on, helping you manage
+  #     complexity in your code. This is an intermediate level course, providing
+  #     an introduction to OOP, using the S3 and R6 systems. S3 is a great
+  #     day-to-day R programming tool that simplifies some of the functions that
+  #     you write. R6 is especially useful for industry-specific analyses, working
+  #     with web APIs, and building GUIs.
 languages:
   - name: English
     percent: 100
