@@ -62,8 +62,8 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: >
-      Research Area: Machine Learning, Deep Learning, Speech and Audio Processing, Statistical Learning, Adversarial Attacks and Defences.\n
-      Member of [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group.\n
+      Research Area: Machine Learning, Deep Learning, Speech and Audio Processing, Statistical Learning, Adversarial Attacks and Defences.<br>
+      Member of [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group.<\br>
       Supervisor: Xiaolin Hu
     button:
       text: Read Thesis
@@ -191,4 +191,5 @@ languages:
 ## About Me
 
 My name is Shuning Zhao I am a Ph.D. Candidate from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) under the supervision of [Prof. Xiaolin Hu](http://www.xlhu.cn/). I am also a member of the [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group. My research interests include the application of artificial intelligence and machine learning in finance, insurance, speech, and audio processing. I am also the co-foudner of [Promptlaw](www.promptlaw.com.au), a legal AI startup aimed at making legal services more accessible and affordable with the power of AI.
+
 Prior to my PhD, I had over 8 years of industrial experience in data science, actuarial, and managerial roles in multinational corporations across Australia and the surrounding regions.
