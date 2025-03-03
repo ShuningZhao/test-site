@@ -76,8 +76,8 @@ education:
     date_start: ""
     date_end: ""
     summary: |
-      GPA: Distinction
-      Thesis: Adversarial Attacks and Defenses on Speech Recognition Systems 
+      GPA: Distinction<br>
+      Thesis: Adversarial Attacks and Defenses on Speech Recognition Systems<br>
       Supervisor(s):
       - Xiaolin Hu (Tsinghua University)
       - Xin Cao (UNSW)
