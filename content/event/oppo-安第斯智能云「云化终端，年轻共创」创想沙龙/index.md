@@ -11,17 +11,19 @@ date_end: 2023-04-27T04:30:00.000Z
 all_day: false
 event: OPPO
 event_url: http://m.e-chinaedu.cn/mobile/index.php?m=mobile&c=index&a=show&catid=199&id=101944
-publishDate: 2023-08-23T03:47:17.583Z
 draft: false
+url_video: https://weibo.com/6074410641/MF0x3zp3F?pagetype=profilefeed
+links:
+  - url: https://weibo.com/6074410641/MF0x3zp3F?pagetype=profilefeed
+    icon_pack: fab
+    icon: weibo
+    name: Follow
+publishDate: 2023-08-23T03:47:17.583Z
 featured: false
 image:
   filename: https://img.e-chinaedu.cn/uploadfile/1/2023/0505/168327245637fab4.png
   focal_point: Smart
   preview_only: false
-# url_code: 'https://github.com'
-# url_pdf: ''
-# url_slides: 'https://slideshare.net'
-url_video: 'https://weibo.com/6074410641/MF0x3zp3F?pagetype=profilefeed'
 ---
 近日,OPPO安第斯智能云校园行创想沙龙在深圳举办并进行全网直播。伴随沙龙的召开,此次安第斯智能云校园行暨#年轻共创 云化终端#活动正式圆满落幕。
 
