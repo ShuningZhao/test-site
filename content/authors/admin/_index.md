@@ -143,7 +143,7 @@ work:
 status:
   icon: ☕️
 awards:
-  - title: BHP Australia-China Scholarship
+  - title: BHP Australia-China Scholar
     url: https://fasic.org.au/Newsite/index.php/sliders/scholarship
     date: 2020-11-25
     awarder: FASIC
