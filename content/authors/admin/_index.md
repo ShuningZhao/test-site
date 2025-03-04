@@ -5,6 +5,7 @@ last_name: Zhao
 highlight_name: true
 title: Shuning Zhao
 role: Ph.D. Candidate
+bio: My name is Shuning Zhao (赵舒宁) I am a Ph.D. Candidate from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) under the supervision of [Prof. Xiaolin Hu](http://www.xlhu.cn/). I am also a member of the [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group. My research interests include the application of artificial intelligence and machine learning in finance, insurance, speech, and audio processing. I am also the co-foudner of [Promptlaw](www.promptlaw.com.au), a legal AI startup aimed at making legal services more accessible and affordable with the power of AI.
 organizations:
   - name: Tsinghua University
     url: https://www.tsinghua.edu.cn/en/
@@ -40,25 +41,13 @@ skills:
       - name: GYM
         description: ""
         percent: 80
-        icon: fas/dumbbell
+        icon: phosphor/barbell
 avatar_filename: avatar.jpg
 interests:
   - Artificial Intelligence
   - Statistical Learning
   - Quantitative Finance
   - Speech and Audio Processing
-# social:
-#   - display:
-#       header: false
-#     icon: at-symbol
-#     link: mailto:shuning@promptlaw.com.au
-#     label: E-mail Me
-#     icon_pack: far
-#   - display:
-#       header: false
-#     link: https://github.com/ShuningZhao
-#     icon_pack: fab
-#     icon: github
 education:
   - area: PhD Artificial Intelligence
     institution: Tsinghua University
@@ -117,7 +106,7 @@ work:
   - position: Co-Founder
     company_name: Promptlaw
     company_url: www.promptlaw.com.au
-    company_logo: ''
+    company_logo: promptlaw_logo.jpg
     date_start: 2024-01-01
     date_end: ''
     summary: |2-

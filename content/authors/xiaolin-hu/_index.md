@@ -10,18 +10,18 @@ bio: Faculty member of Department of Computer Science and Technology, Tsinghua
   Processing and Cognitive Neurodynamics. Previously I was an Associate Editor
   of IEEE Transactions on Neural Networks and Learning Systems. I'm a Senior
   Member of IEEE.
-social:
-  - display:
-      header: false
-    link: http://www.xlhu.cn/
-    icon_pack: fas
-    icon: envelope
-  - display:
-      header: false
-    link: https://scholar.google.com/citations?user=PksdgoUAAAAJ&hl=en
-    icon_pack: ai
-    icon: graduation-cap
-    label: Google Scholar
+profiles:
+  - icon: at-symbol
+    url: 'mailto:xlhu@tsinghua.edu.cn'
+    label: E-mail Me
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  - icon: hb/card
+    url: http://www.xlhu.cn/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=PksdgoUAAAAJ&hl=en
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-4907-7354
 organizations:
   - name: Tsinghua University
 superuser: false
