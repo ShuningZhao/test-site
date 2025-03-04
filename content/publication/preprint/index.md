@@ -1,8 +1,11 @@
 ---
-title: "An example preprint / working paper"
+title: "Joint life annuity derivative valuation in a linear-rational Wishart
+mortality model"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Patrick Wong
+- Xiaolin Hu
+date: "2025-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +26,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Option Pricing
 
 featured: true
 
@@ -42,7 +45,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**NADEX**](https://www.nadex.com/)'
   focal_point: ""
   preview_only: false
 
@@ -61,8 +64,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
