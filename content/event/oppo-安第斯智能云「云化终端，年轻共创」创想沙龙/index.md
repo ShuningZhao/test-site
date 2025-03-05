@@ -24,7 +24,7 @@ links:
 publishDate: 2023-08-23T03:47:17.583Z
 authors:
   - admin
-featured: true
+featured: false
 image:
   focal_point: Smart
 ---

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conveyancing | Shuning Zhao</title>
+    <link>http://localhost:1313/tags/conveyancing/</link>
+      <atom:link href="http://localhost:1313/tags/conveyancing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conveyancing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Conveyancing</title>
+      <link>http://localhost:1313/tags/conveyancing/</link>
+    </image>
+    
+    <item>
+      <title>Conveyancing Contract Reviewer</title>
+      <link>http://localhost:1313/project/contract_review/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/contract_review/</guid>
+      <description>&lt;p&gt;A free property sales contract reviewer for those looking to buy properties, only compatible for contracts in NSW.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
